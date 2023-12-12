@@ -5,14 +5,14 @@
   gap: 2rem;
 }
 
-.login::before{
+.login::before {
   display: block;
   content: '';
   background: url('../../Assets/login.jpg') no-repeat center center;
   background-size: cover;
 }
 
-.forms{
+.forms {
   max-width: 30rem;
   padding: 1rem;
 }
